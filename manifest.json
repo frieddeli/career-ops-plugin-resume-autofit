@@ -1,0 +1,15 @@
+{
+  "id": "resume-autofit",
+  "name": "career-ops-plugin-resume-autofit",
+  "version": "0.1.0",
+  "apiVersion": 1,
+  "description": "High-density DOCX and PDF resume generation engine with auto-fit page budgeting, exact 2-page target constraints, and CJK typography support.",
+  "hooks": [
+    "export"
+  ],
+  "requiredEnv": [],
+  "allowedHosts": [],
+  "skill": "skill.md",
+  "humanInTheLoop": true,
+  "homepage": "https://github.com/frieddeli/career-ops-plugin-resume-autofit"
+}
